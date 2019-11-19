@@ -1,0 +1,96 @@
+Train id is: 1  Start time: Thu May  3 19:15:52 2018
+  Start point: F  Destination point: A  Length: 100  Departure time: Thu May  3 19:15:52 2018
+
+Train id is: 2  Start time: Thu May  3 19:15:53 2018
+  Start point: A  Destination point: E  Length: 100  Departure time: Thu May  3 19:15:53 2018
+
+Train id is: 3  Start time: Thu May  3 19:15:53 2018
+  Start point: B  Destination point: E  Length: 100  Departure time: Thu May  3 19:15:53 2018
+
+Train id is: 4  Start time: Thu May  3 19:15:53 2018
+  Start point: F  Destination point: B  Length: 200  Departure time: Thu May  3 19:15:53 2018
+
+Train id is: 5  Start time: Thu May  3 19:15:54 2018
+  Start point: A  Destination point: F  Length: 100  Departure time: Thu May  3 19:15:54 2018
+
+Train id is: 6  Start time: Thu May  3 19:15:54 2018
+  Start point: B  Destination point: F  Length: 100  Departure time: Thu May  3 19:15:54 2018
+
+Train id is: 7  Start time: Thu May  3 19:15:55 2018
+  Start point: B  Destination point: F  Length: 100  Departure time: Thu May  3 19:15:55 2018
+
+Train id is: 8  Start time: Thu May  3 19:15:55 2018
+  Start point: A  Destination point: E  Length: 100  Departure time: Thu May  3 19:15:55 2018
+
+Train id is: 9  Start time: Thu May  3 19:15:56 2018
+  Start point: B  Destination point: F  Length: 100  Departure time: Thu May  3 19:15:56 2018
+
+Train id is: 10  Start time: Thu May  3 19:15:57 2018
+  Start point: A  Destination point: F  Length: 100  Departure time: Thu May  3 19:15:57 2018
+
+Train id is: 11  Start time: Thu May  3 19:15:57 2018
+  Start point: B  Destination point: F  Length: 200  Departure time: Thu May  3 19:15:57 2018
+
+Train id is: 12  Start time: Thu May  3 19:15:57 2018
+  Start point: E  Destination point: A  Length: 100  Departure time: Thu May  3 19:15:57 2018
+
+Train id is: 13  Start time: Thu May  3 19:16:10 2018
+  Start point: E  Destination point: B  Length: 200  Departure time: Thu May  3 19:16:10 2018
+
+Train id is: 14  Start time: Thu May  3 19:16:11 2018
+  Start point: F  Destination point: A  Length: 100  Departure time: Thu May  3 19:16:11 2018
+
+Train id is: 15  Start time: Thu May  3 19:16:11 2018
+  Start point: A  Destination point: F  Length: 100  Departure time: Thu May  3 19:16:11 2018
+
+Train id is: 16  Start time: Thu May  3 19:16:11 2018
+  Start point: E  Destination point: A  Length: 200  Departure time: Thu May  3 19:16:11 2018
+
+Train id is: 17  Start time: Thu May  3 19:16:12 2018
+  Start point: B  Destination point: E  Length: 100  Departure time: Thu May  3 19:16:12 2018
+
+Train id is: 18  Start time: Thu May  3 19:16:12 2018
+  Start point: F  Destination point: A  Length: 200  Departure time: Thu May  3 19:16:12 2018
+
+Train id is: 19  Start time: Thu May  3 19:16:13 2018
+  Start point: A  Destination point: F  Length: 100  Departure time: Thu May  3 19:16:13 2018
+
+Train id is: 20  Start time: Thu May  3 19:16:14 2018
+  Start point: B  Destination point: E  Length: 200  Departure time: Thu May  3 19:16:14 2018
+
+Train id is: 21  Start time: Thu May  3 19:16:14 2018
+  Start point: A  Destination point: E  Length: 100  Departure time: Thu May  3 19:16:14 2018
+
+Train id is: 22  Start time: Thu May  3 19:16:15 2018
+  Start point: A  Destination point: F  Length: 100  Departure time: Thu May  3 19:16:15 2018
+
+Train id is: 23  Start time: Thu May  3 19:16:16 2018
+  Start point: E  Destination point: A  Length: 200  Departure time: Thu May  3 19:16:16 2018
+
+Train id is: 24  Start time: Thu May  3 19:16:16 2018
+  Start point: F  Destination point: A  Length: 200  Departure time: Thu May  3 19:16:16 2018
+
+Train id is: 25  Start time: Thu May  3 19:16:17 2018
+  Start point: A  Destination point: E  Length: 200  Departure time: Thu May  3 19:16:17 2018
+
+Train id is: 26  Start time: Thu May  3 19:16:17 2018
+  Start point: B  Destination point: E  Length: 100  Departure time: Thu May  3 19:16:17 2018
+
+Train id is: 27  Start time: Thu May  3 19:16:38 2018
+  Start point: A  Destination point: F  Length: 200  Departure time: Thu May  3 19:16:38 2018
+
+Train id is: 28  Start time: Thu May  3 19:16:38 2018
+  Start point: F  Destination point: B  Length: 100  Departure time: Thu May  3 19:16:38 2018
+
+Train id is: 29  Start time: Thu May  3 19:16:38 2018
+  Start point: E  Destination point: B  Length: 100  Departure time: Thu May  3 19:16:38 2018
+
+Train id is: 30  Start time: Thu May  3 19:16:39 2018
+  Start point: A  Destination point: E  Length: 100  Departure time: Thu May  3 19:16:39 2018
+
+Train id is: 31  Start time: Thu May  3 19:16:39 2018
+  Start point: E  Destination point: B  Length: 200  Departure time: Thu May  3 19:16:39 2018
+
+Train id is: 32  Start time: Thu May  3 19:16:39 2018
+  Start point: F  Destination point: B  Length: 100  Departure time: Thu May  3 19:16:39 2018
+
